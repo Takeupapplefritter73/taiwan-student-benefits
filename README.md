@@ -172,7 +172,8 @@ taiwan-student-benefits/
 ├── README.en.md                      # English README
 ├── tracker_template.json             # 37 項福利追蹤模板
 ├── references/
-│   └── benefits-catalog.md           # 完整福利目錄（含網址與注意事項）
+│   ├── benefits-catalog.md           # 完整福利目錄（英文版，含網址與注意事項）
+│   └── benefits-catalog.zh-TW.md     # 完整福利目錄（正體中文版）
 └── scripts/
     ├── check_benefits.ps1            # Windows 提醒腳本
     ├── check_benefits.sh             # macOS/Linux 提醒腳本
@@ -186,7 +187,7 @@ taiwan-student-benefits/
 
 新增福利的步驟：
 1. 在 `tracker_template.json` 加入新項目
-2. 在 `references/benefits-catalog.md` 加入說明
+2. 在 `references/benefits-catalog.md`（英文）和 `references/benefits-catalog.zh-TW.md`（中文）加入說明
 3. 提交 Pull Request
 
 ## 授權
