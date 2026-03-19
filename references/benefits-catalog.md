@@ -1,6 +1,6 @@
 # Taiwan Student Benefits Catalog
 
-> Last updated: 2026-03. Source: [claude-world.com guide](https://claude-world.com/zh-tw/articles/taiwan-student-free-subscriptions-guide-2025-2026/)
+> Last updated: 2026-03-19. Source: [claude-world.com guide](https://claude-world.com/zh-tw/articles/taiwan-student-free-subscriptions-guide-2025-2026/)
 > All benefits verified for `.edu.tw` email compatibility.
 
 ## Table of Contents
@@ -16,6 +16,7 @@
 9. [Music & Media](#9-music--media)
 10. [AI Tools](#10-ai-tools)
 11. [DevOps & Advanced](#11-devops--advanced)
+12. [Account Binding Guide](#12-account-binding-guide--email-flexibility)
 
 ---
 
@@ -46,9 +47,10 @@ The Pack is the gateway service. Apply first, then redeem individual benefits.
 | stripe | Stripe | $1,000 transaction fee waiver | $1,000 | https://education.github.com/pack |
 
 **Notes:**
+- All Pack benefits are **Type C** (personal email OK) — see [Account Binding Guide](#12-account-binding-guide--email-flexibility)
 - DigitalOcean and Heroku require credit card verification
 - MongoDB has a 90-day redemption window after Pack approval
-- Namecheap may have geographic limitations for some TLDs
+- Namecheap nc.me may not support `.edu.tw` — use Name.com instead
 
 ---
 
@@ -63,9 +65,10 @@ No GitHub Pack required. Apply independently.
 | postman | Postman Student Expert | Free professional certification + badge | Permanent | https://www.postman.com/students |
 
 **Notes:**
-- JetBrains accepts `.edu.tw` email, student ID, or GitHub Pack verification
-- Cursor: Taiwan not in official support list but manual verification possible
-- Postman: complete official training modules to earn the badge
+- JetBrains: **Type A** — best path is linking GitHub Pack (no edu email needed). Document upload was removed July 2024.
+- Cursor: **Type B** — account email must match SheerID verification email exactly. Taiwan not in official list but manual verification possible.
+- Postman: **Type A** — no email verification needed; complete training modules to earn the badge
+- See [Account Binding Guide](#12-account-binding-guide--email-flexibility) for details
 
 ---
 
@@ -106,9 +109,10 @@ No GitHub Pack required. Apply independently.
 | canva | Canva Education | K-12 only; universities need institutional "Campus" plan | Varies | https://www.canva.com/education/ |
 
 **Notes:**
-- Figma: register with `.edu.tw` email; status tied to email domain
-- Autodesk: `.edu.tw` eligible, verify annually
-- Canva: no individual student plan; needs school-wide subscription
+- Figma: **Type B** — strongly prefers `.edu.tw` email; personal email often rejected (can appeal via education@figma.com)
+- Autodesk: **Type A** — register with any email, verify via SheerID with student ID or edu email
+- Canva: **Type D** — no individual student plan; needs school-wide "Campus" subscription
+- See [Account Binding Guide](#12-account-binding-guide--email-flexibility) for details
 
 ---
 
@@ -146,9 +150,10 @@ No GitHub Pack required. Apply independently.
 | obsidian | Obsidian | Full app free (open-source) | Permanent | https://obsidian.md/ |
 
 **Notes:**
-- Notion: `.edu.tw` email required; school must be in WHED database
-- MS 365: almost all Taiwan universities provide institutional access
+- Notion: **Type B** — `.edu.tw` email required as account; school must be in WHED database
+- MS 365: **Type B** — institutional license tied to school email domain
 - Linear: email students@linear.app for academic pricing
+- See [Account Binding Guide](#12-account-binding-guide--email-flexibility) for details
 
 ---
 
@@ -171,8 +176,10 @@ Also see Namecheap and Name.com in the GitHub Pack section for free domains.
 | youtube-premium | YouTube Premium Student | Student discount | During enrollment | https://www.youtube.com/premium/student |
 
 **Notes:**
-- All three use SheerID or UNiDAYS for verification
-- Taiwan universities are supported for verification
+- Spotify & YouTube Premium: **Type A** — use SheerID, register with any email
+- Apple Music: **Type B** — UNiDAYS verification requires `.edu.tw` email
+- Taiwan universities are supported by both SheerID (191 countries) and UNiDAYS (114 countries)
+- See [Account Binding Guide](#12-account-binding-guide--email-flexibility) for details
 
 ---
 
@@ -191,6 +198,82 @@ Also see Namecheap and Name.com in the GitHub Pack section for free domains.
 |----|---------|-------------|------|-----|
 | nvidia-dli | NVIDIA DLI | Free deep learning courses + certs | Free | https://www.nvidia.com/training |
 | redhat | Red Hat Developer | Free developer subscription (RHEL + OpenShift) | Free | https://developers.redhat.com/register |
+
+---
+
+## 12. Account Binding Guide — Email Flexibility
+
+> **Key question:** Can I use my personal email as the primary account, or must I register with `.edu.tw`?
+>
+> This matters because `.edu.tw` emails expire after graduation. Services bound to your personal email survive beyond your student years.
+
+### Type C — Via GitHub Pack (personal email OK)
+
+These services authenticate through your GitHub account. Once your GitHub Student Pack is approved, you redeem benefits by linking your GitHub account — **no `.edu.tw` email needed at the partner site**.
+
+| Service | Binding Method | Caveat |
+|---------|---------------|--------|
+| GitHub Copilot | Auto-enabled on your GitHub account | — |
+| GitHub Pro | Auto-enabled on your GitHub account | — |
+| DigitalOcean | Link GitHub account on signup | Credit card required |
+| Heroku | Claim via GitHub Education portal | — |
+| 1Password | Link GitHub account | Must be Individual plan (not Family/Team) |
+| Frontend Masters | Claim via GitHub Education portal | — |
+| Educative | Claim via GitHub Education portal | — |
+| GitKraken | Claim via GitHub Education portal | — |
+| MongoDB Atlas | Promo code from GitHub Education | 90-day redemption window; credit card needed |
+| Stripe | Claim via GitHub Education portal | — |
+| Name.com | Claim via GitHub Education portal | Various TLDs available |
+
+### Type A — Personal Email OK (verify student status separately)
+
+Register with your preferred email. Student status is verified through a separate flow (SheerID, student ID upload, or GitHub Pack link).
+
+| Service | Verification Method | Notes |
+|---------|-------------------|-------|
+| JetBrains | GitHub Pack link OR `.edu.tw` OR ISIC card | **Best path: link GitHub Pack** — no edu email needed at all. Document upload was removed July 2024. |
+| Autodesk | SheerID (upload student ID or edu email) | Account email can be personal |
+| Spotify Student | SheerID | Taiwan universities supported. Register with any email. |
+| YouTube Premium | SheerID | Tied to your Google account; verification is separate |
+| Perplexity Pro | SheerID | Account email and verification email can be different |
+| Miro Education | edu email OR student ID upload | If edu email not recognized, contact support with student ID |
+| AWS Educate | Prefer edu email, personal OK with extra docs | Using personal email requires replying with college ID; slower approval |
+| Postman Student Expert | Complete training modules | No email verification needed; anyone can earn the badge |
+
+### Type B — `.edu.tw` Email Required as Account
+
+These services **require** the `.edu.tw` email as your login/account email. No workaround.
+
+| Service | Why edu Required | Tip |
+|---------|-----------------|-----|
+| Cursor Pro | Account email must match SheerID verification email exactly | #1 rejection reason is email mismatch. Taiwan support via SheerID may need manual review. |
+| Notion Plus | Only recognizes edu email domains for automatic upgrade | No document upload option. School must be in WHED database. |
+| MS 365 Education | Institutional license tied to school email domain | Check if your school provides it at the school IT portal |
+| Azure for Students | Requires institutional email verification | **Potential workaround:** some users report linking via GitHub Pack bypasses edu requirement |
+| Apple Music Student | UNiDAYS verification requires edu email | UNiDAYS supports Taiwan (114 countries) |
+| Figma Education | Strongly prefers edu email; personal email often rejected | If rejected, email education@figma.com with student ID for manual approval |
+
+### Type D — Via School Portal
+
+| Service | How It Works |
+|---------|-------------|
+| Google Cloud $300 | Faculty applies for credits → sends coupon URL to students. **Coupon can be applied to any Google account.** |
+| Zoom Education | School-wide license; check with school IT |
+| Canva Education | Requires school-wide "Campus" subscription; no individual student plan |
+
+### Key Insights
+
+1. **SheerID is the universal student verifier** — Used by Spotify, YouTube, Autodesk, Perplexity, Cursor, and more. Covers 191 countries and 200,000+ institutions. Most Taiwan public universities (including NCUT, NTU, NYCU, NCKU) are in the database.
+
+2. **GitHub Pack is the most powerful shortcut** — 11 services can be claimed with zero additional email verification. Apply for the Pack first, then redeem everything through it.
+
+3. **JetBrains best path = GitHub Pack** — With an approved Pack, JetBrains doesn't need your edu email at all. Just link your GitHub account during the application.
+
+4. **Namecheap nc.me has geographic limitations** — Primarily supports US/UK/CA/AU `.edu` emails. Taiwan's `.edu.tw` may not qualify. Use **Name.com** (via GitHub Pack) as the alternative for free domains.
+
+5. **Set up email forwarding for Type B services** — Since some services force you to use `.edu.tw`, configure forwarding from your school email to your personal email so you don't miss renewal notices after graduation.
+
+6. **Azure workaround worth trying** — Some users have successfully activated Azure for Students by linking through GitHub Student Pack instead of direct edu email verification. Results may vary.
 
 ---
 
