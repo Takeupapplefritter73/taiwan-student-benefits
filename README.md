@@ -158,92 +158,92 @@ reminder.log                   ← 提醒紀錄（持續累加）
 
 | 服務 | 類型 | .edu.tw | 畢業後 | 用途與應用場景 |
 |------|------|---------|--------|--------------|
-| GitHub Copilot | C | 否 | 可保留 | AI 程式碼補完，寫程式自動建議下一行，加速開發效率 |
-| GitHub Pro | C | 否 | 可保留 | 無限私有 repo、3000 分鐘 Actions、180 小時 Codespaces 雲端開發 |
-| GitKraken Pro | C | 否 | 可保留 | Git 圖形化介面，視覺化管理版本控制，適合 Git 指令不熟的同學 |
-| Educative | C | 否 | 可保留 | 70+ 門互動式程式課程，瀏覽器直接寫程式，適合面試刷題 |
-| Frontend Masters | C | 否 | 可保留 | 6 個月免費學 React、TypeScript、Node.js，業界講師授課 |
-| 1Password | C | 否 | 可保留 | 密碼管理 + SSH 金鑰管理，開發和日常生活都實用 |
-| DigitalOcean | C | 否 | 可保留 | $200 雲端額度，架個人網站、API 伺服器、練 Linux（需信用卡） |
-| MongoDB Atlas | C | 否 | 可保留 | $50 雲端 NoSQL 資料庫，搭 Node.js 做全端專案（90 天內兌換） |
-| Namecheap (.me) | C | 否 | 可保留 | 免費 .me 網域，架作品集網站（`.edu.tw` 可能不支援，改用 Name.com） |
-| Name.com | C | 否 | 可保留 | 免費網域 1 年，25+ 頂級域名可選，架個人網站面試加分 |
-| Heroku | C | 否 | 可保留 | 每月 $13 x 24 個月，快速部署 Web 應用，展示專題成果 |
-| Stripe | C | 否 | 可保留 | $1,000 手續費免除，做電商專題不用自掏腰包付手續費 |
+| [GitHub Copilot](https://github.com/settings/copilot) | C | 否 | 可保留 | AI 程式碼補完，寫程式自動建議下一行，加速開發效率 |
+| [GitHub Pro](https://education.github.com/pack) | C | 否 | 可保留 | 無限私有 repo、3000 分鐘 Actions、180 小時 Codespaces 雲端開發 |
+| [GitKraken Pro](https://www.gitkraken.com/github-student-developer-pack) | C | 否 | 可保留 | Git 圖形化介面，視覺化管理版本控制，適合 Git 指令不熟的同學 |
+| [Educative](https://education.github.com/pack#educative) | C | 否 | 可保留 | 70+ 門互動式程式課程，瀏覽器直接寫程式，適合面試刷題 |
+| [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/) | C | 否 | 可保留 | 6 個月免費學 React、TypeScript、Node.js，業界講師授課 |
+| [1Password](https://1password.com/developers/students) | C | 否 | 可保留 | 密碼管理 + SSH 金鑰管理，開發和日常生活都實用 |
+| [DigitalOcean](https://www.digitalocean.com/github-students) | C | 否 | 可保留 | $200 雲端額度，架個人網站、API 伺服器、練 Linux（需信用卡） |
+| [MongoDB Atlas](https://www.mongodb.com/students) | C | 否 | 可保留 | $50 雲端 NoSQL 資料庫，搭 Node.js 做全端專案（90 天內兌換） |
+| [Namecheap (.me)](https://nc.me/) | C | 否 | 可保留 | 免費 .me 網域，架作品集網站（`.edu.tw` 可能不支援，改用 Name.com） |
+| [Name.com](https://www.name.com/partner/github-students) | C | 否 | 可保留 | 免費網域 1 年，25+ 頂級域名可選，架個人網站面試加分 |
+| [Heroku](https://www.heroku.com/github-students/) | C | 否 | 可保留 | 每月 $13 x 24 個月，快速部署 Web 應用，展示專題成果 |
+| [Stripe](https://education.github.com/pack#stripe) | C | 否 | 可保留 | $1,000 手續費免除，做電商專題不用自掏腰包付手續費 |
 
 ### 開發工具（獨立申請）
 
 | 服務 | 類型 | .edu.tw | 畢業後 | 用途與應用場景 |
 |------|------|---------|--------|--------------|
-| JetBrains 全家桶 | A | 否（連結 GitHub Pack） | 可保留 | IntelliJ 寫 Java、PyCharm 寫 Python、WebStorm 寫前端，強大重構和除錯 |
-| Cursor Pro | B | **是**（帳號信箱需一致） | 需遷移 | AI 驅動編輯器，類似 VS Code 但可用中文對話寫程式（台灣需人工審核） |
-| Postman Student Expert | A | 否 | 可保留 | API 測試認證，取得官方徽章放 LinkedIn，永久有效 |
+| [JetBrains 全家桶](https://www.jetbrains.com/community/education/#students) | A | 否（連結 GitHub Pack） | 可保留 | IntelliJ 寫 Java、PyCharm 寫 Python、WebStorm 寫前端，強大重構和除錯 |
+| [Cursor Pro](https://cursor.com/students) | B | **是**（帳號信箱需一致） | 需遷移 | AI 驅動編輯器，類似 VS Code 但可用中文對話寫程式（台灣需人工審核） |
+| [Postman Student Expert](https://www.postman.com/students) | A | 否 | 可保留 | API 測試認證，取得官方徽章放 LinkedIn，永久有效 |
 
 ### 雲端服務
 
 | 服務 | 類型 | .edu.tw | 畢業後 | 用途與應用場景 |
 |------|------|---------|--------|--------------|
-| Microsoft Azure | B | **是** | 失去存取 | $100 額度，不需信用卡，開虛擬機、架網站、玩 AI 服務（可嘗試用 Pack 繞過） |
-| AWS Educate | A | 偏好（個人信箱需補件） | 可保留 | 免費實驗室練雲端架構，業界市佔最高的雲端平台 |
-| Google Cloud $300 | D | 否（coupon 套用任何帳號） | 可保留 | BigQuery 資料分析、Vertex AI 訓練模型，適合資料科學系所 |
-| Netlify | A | 否 | 可保留 | 靜態網站一鍵部署，React/Vue 作品集首選 |
-| Oracle Cloud Free Tier | A | 否 | 可保留 | 2 台 ARM VM + 24GB RAM 永久免費，長期運行專案最划算 |
+| [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) | B | **是** | 失去存取 | $100 額度，不需信用卡，開虛擬機、架網站、玩 AI 服務（可嘗試用 Pack 繞過） |
+| [AWS Educate](https://aws.amazon.com/education/awseducate/) | A | 偏好（個人信箱需補件） | 可保留 | 免費實驗室練雲端架構，業界市佔最高的雲端平台 |
+| [Google Cloud $300](https://cloud.google.com/edu/students) | D | 否（coupon 套用任何帳號） | 可保留 | BigQuery 資料分析、Vertex AI 訓練模型，適合資料科學系所 |
+| [Netlify](https://www.netlify.com/) | A | 否 | 可保留 | 靜態網站一鍵部署，React/Vue 作品集首選 |
+| [Oracle Cloud Free Tier](https://www.oracle.com/tw/cloud/free/) | A | 否 | 可保留 | 2 台 ARM VM + 24GB RAM 永久免費，長期運行專案最划算 |
 
 ### 資料庫
 
 | 服務 | 類型 | .edu.tw | 畢業後 | 用途與應用場景 |
 |------|------|---------|--------|--------------|
-| Supabase | A | 否 | 可保留 | 開源 Firebase 替代，500MB PostgreSQL + 即時 API，快速開發全端應用 |
-| Neon | A | 否 | 可保留 | Serverless PostgreSQL，用多少算多少，適合小型專案和原型開發 |
+| [Supabase](https://supabase.com/pricing) | A | 否 | 可保留 | 開源 Firebase 替代，500MB PostgreSQL + 即時 API，快速開發全端應用 |
+| [Neon](https://neon.tech/pricing) | A | 否 | 可保留 | Serverless PostgreSQL，用多少算多少，適合小型專案和原型開發 |
 
 ### 設計工具
 
 | 服務 | 類型 | .edu.tw | 畢業後 | 用途與應用場景 |
 |------|------|---------|--------|--------------|
-| Figma Education | B | **是**（強烈偏好） | 需遷移 | UI/UX 設計、簡報、團隊協作設計稿（被拒可寄信 education@figma.com） |
-| Autodesk Education | A | 否（SheerID 驗證） | 可保留 | AutoCAD 工程圖、Maya 3D 動畫、Fusion 360 產品設計 |
-| Miro Education | A | 否（可用學生證） | 可保留 | 線上白板，團隊腦力激盪、流程圖、使用者旅程地圖 |
-| Blender | A | 否 | 可保留 | 開源 3D 建模與動畫，做遊戲素材、3D 列印模型、動畫短片 |
-| Canva Education | D | 否（透過學校訂閱） | 失去存取 | 快速做簡報、海報、社群貼文（需學校有訂閱 Campus 方案） |
+| [Figma Education](https://www.figma.com/education/) | B | **是**（強烈偏好） | 需遷移 | UI/UX 設計、簡報、團隊協作設計稿（被拒可寄信 education@figma.com） |
+| [Autodesk Education](https://www.autodesk.com/education/edu-software/overview) | A | 否（SheerID 驗證） | 可保留 | AutoCAD 工程圖、Maya 3D 動畫、Fusion 360 產品設計 |
+| [Miro Education](https://miro.com/education/) | A | 否（可用學生證） | 可保留 | 線上白板，團隊腦力激盪、流程圖、使用者旅程地圖 |
+| [Blender](https://www.blender.org/download/) | A | 否 | 可保留 | 開源 3D 建模與動畫，做遊戲素材、3D 列印模型、動畫短片 |
+| [Canva Education](https://www.canva.com/education/) | D | 否（透過學校訂閱） | 失去存取 | 快速做簡報、海報、社群貼文（需學校有訂閱 Campus 方案） |
 
 ### 學習平台
 
 | 服務 | 類型 | .edu.tw | 畢業後 | 用途與應用場景 |
 |------|------|---------|--------|--------------|
-| Coursera 助學金 | A | 否 | 可保留 | 免費修 Stanford、Google 等名校課程並取得證書，台灣核准率高 |
-| edX | A | 否 | 可保留 | 免費旁聽 MIT、Harvard 課程，深入特定領域的好資源 |
-| Kaggle Learn | A | 否 | 可保留 | 免費學 Python、SQL、ML 並取得證書，AI 入門首選 |
-| IBM SkillsBuild | A | 否 | 可保留 | AI、雲端、資安課程，取得 IBM 數位徽章放履歷 |
-| HackerRank | A | 否 | 可保留 | Python、Java、SQL 認證，求職展示程式能力 |
-| NVIDIA DLI | A | 否 | 可保留 | 免費學 GPU 運算和深度學習，取得 NVIDIA 官方證照 |
+| [Coursera 助學金](https://www.coursera.org/apply-for-aid) | A | 否 | 可保留 | 免費修 Stanford、Google 等名校課程並取得證書，台灣核准率高 |
+| [edX](https://www.edx.org/) | A | 否 | 可保留 | 免費旁聽 MIT、Harvard 課程，深入特定領域的好資源 |
+| [Kaggle Learn](https://www.kaggle.com/learn) | A | 否 | 可保留 | 免費學 Python、SQL、ML 並取得證書，AI 入門首選 |
+| [IBM SkillsBuild](https://skillsbuild.org/students) | A | 否 | 可保留 | AI、雲端、資安課程，取得 IBM 數位徽章放履歷 |
+| [HackerRank](https://www.hackerrank.com/skills-verification) | A | 否 | 可保留 | Python、Java、SQL 認證，求職展示程式能力 |
+| [NVIDIA DLI](https://www.nvidia.com/training) | A | 否 | 可保留 | 免費學 GPU 運算和深度學習，取得 NVIDIA 官方證照 |
 
 ### 生產力工具
 
 | 服務 | 類型 | .edu.tw | 畢業後 | 用途與應用場景 |
 |------|------|---------|--------|--------------|
-| Notion Plus | B | **是** | 需遷移 | 全能筆記與專案管理，課堂筆記、專題進度、知識庫（學校需在 WHED） |
-| Microsoft 365 | B | **是** | 失去存取 | Word 寫報告、Excel 資料分析、PPT 簡報、Teams 線上開會 |
-| Obsidian | A | 否 | 可保留 | 本地 Markdown 筆記，雙向連結建知識網路，完全離線可用 |
+| [Notion Plus](https://www.notion.com/product/notion-for-education) | B | **是** | 需遷移 | 全能筆記與專案管理，課堂筆記、專題進度、知識庫（學校需在 WHED） |
+| [Microsoft 365](https://www.microsoft.com/zh-tw/education/products/office) | B | **是** | 失去存取 | Word 寫報告、Excel 資料分析、PPT 簡報、Teams 線上開會 |
+| [Obsidian](https://obsidian.md/) | A | 否 | 可保留 | 本地 Markdown 筆記，雙向連結建知識網路，完全離線可用 |
 
 ### 影音串流
 
 | 服務 | 類型 | .edu.tw | 畢業後 | 用途與應用場景 |
 |------|------|---------|--------|--------------|
-| Spotify 學生方案 | A | 否（SheerID） | 恢復原價 | 台灣學生價 NT$88/月（約半價），每年需重新驗證 |
-| Apple Music 學生方案 | B | **是**（UNiDAYS） | 恢復原價 | 約 5 折，Apple 生態系用戶首選 |
-| YouTube Premium 學生方案 | A | 否（SheerID） | 恢復原價 | 無廣告 + 背景播放，每年需重新驗證 |
+| [Spotify 學生方案](https://www.spotify.com/tw/student/) | A | 否（SheerID） | 恢復原價 | 台灣學生價 NT$88/月（約半價），每年需重新驗證 |
+| [Apple Music 學生方案](https://music.apple.com/tw/subscribe) | B | **是**（UNiDAYS） | 恢復原價 | 約 5 折，Apple 生態系用戶首選 |
+| [YouTube Premium 學生方案](https://www.youtube.com/premium/student) | A | 否（SheerID） | 恢復原價 | 無廣告 + 背景播放，每年需重新驗證 |
 
 ### AI 工具
 
 | 服務 | 類型 | .edu.tw | 畢業後 | 用途與應用場景 |
 |------|------|---------|--------|--------------|
-| Perplexity Pro | A | 否（SheerID） | 恢復原價 | AI 搜尋引擎 5 折，寫報告快速查找整理資料，附引用來源 |
+| [Perplexity Pro](https://perplexity.ai/students) | A | 否（SheerID） | 恢復原價 | AI 搜尋引擎 5 折，寫報告快速查找整理資料，附引用來源 |
 
 ### DevOps 與進階
 
 | 服務 | 類型 | .edu.tw | 畢業後 | 用途與應用場景 |
 |------|------|---------|--------|--------------|
-| Red Hat Developer | A | 否 | 可保留 | 免費 RHEL + OpenShift，學習企業級 Linux 系統管理 |
+| [Red Hat Developer](https://developers.redhat.com/register) | A | 否 | 可保留 | 免費 RHEL + OpenShift，學習企業級 Linux 系統管理 |
 
 ## .edu.tw 信箱有效期限提醒
 
