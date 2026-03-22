@@ -237,7 +237,7 @@ reminder.log                   ← 提醒紀錄（持續累加）
 
 | 服務 | 類型 | .edu.tw | 畢業後 | 用途與應用場景 |
 |------|------|---------|--------|--------------|
-| [Perplexity Pro](https://perplexity.ai/students) | A | 否（SheerID） | 恢復原價 | AI 搜尋引擎 5 折，寫報告快速查找整理資料，附引用來源 |
+| [Perplexity Pro](https://www.perplexity.ai/students) | A | 否（SheerID） | 恢復原價 | AI 搜尋引擎，學生免費 12 個月（原價 $20/月），寫報告查資料附引用來源 |
 
 ### DevOps 與進階
 
